@@ -101,7 +101,7 @@ Resources
 ### Visualization
 * Cartopy (basic)
 
-  _add description_
+  This notebook covers the basic of CartoPy, a package which is useful for creating maps. Examples of creating a basic map, adding map features, and plotting data are covered in this notebook. The [CartoPy Example Gallery](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html) would be another useful resource for users.
 
 * Cartopy (intermediate)
 
